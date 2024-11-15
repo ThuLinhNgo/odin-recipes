@@ -1,0 +1,36 @@
+h1,
+h3 {
+  text-align: center;
+  color: darkred;
+}
+img {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.Description {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.Ingredients {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.list {
+  display: inline-block;
+  text-align: left;
+}
+
+.Direction {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+body {
+  background-color: #fefbd8;
+  display: flex;
+  flex-direction: column;
+}
